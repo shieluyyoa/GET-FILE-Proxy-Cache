@@ -17,9 +17,11 @@ We have simplified this project by omitting requirements that are typically pres
 notable of which is that **we do not** require you _download and save_ files from the Internet.  The servers
 that we have provided to you already implement threading, since you did that in a previous project.
 
+Please enable notifications for repo updates so that you are able to pull the most up to date versions of the repository if any changes are made.
+
 ## Setup
 
-Please follow the instructions given in the [environment](https://github.gatech.edu/gios-summer-23/environment)
+Please follow the instructions given in the [environment](https://github.gatech.edu/gios-spr-24/environment)
 repository for setting up a viable development/test environment.  We do not require that you use this
 environment, so please feel free to work in the environment you find most productive.  The auto-grader
 uses an environment that is compatible with what we have described.
@@ -33,6 +35,8 @@ git clone https://github.gatech.edu/gios-spr-24/pr3.git
 We encourage you to save your code in a separate repository.  You can make one in the **gios-spring-23**
 organization. Regardless of where you place your repository, we expect you to keep it private to
 meet the obligations of the honor code.
+
+Please enable notifications for repo updates so that you are able to pull the most up to date versions of the repository if any changes are made.
 
 ## Submission Instructions
 
