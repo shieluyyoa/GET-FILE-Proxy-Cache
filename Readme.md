@@ -32,7 +32,7 @@ You can clone the code in this repository with the command:
 git clone https://github.gatech.edu/gios-spr-24/pr3.git
 ```
 
-We encourage you to save your code in a separate repository.  You can make one in the **gios-spring-23**
+We encourage you to save your code in a separate repository.  You can make one in the **gios-spring-24**
 organization. Regardless of where you place your repository, we expect you to keep it private to
 meet the obligations of the honor code.
 
