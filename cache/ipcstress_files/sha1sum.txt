@@ -1,0 +1,10 @@
+da39a3ee5e6b4b0d3255bfef95601890afd80709  .//ipcstress_files/workload0.bin
+a86a5e9f6377a35432042b129482869bb42dc87c  .//ipcstress_files/workload1.bin
+e9bf25de20bfc1c2918969c450719df833fef47c  .//ipcstress_files/workload2.bin
+d239178a2d5aaa6135808822493bbc09eacb7624  .//ipcstress_files/workload3.bin
+88d61944d7775eb426d28362f63945a67de19aa8  .//ipcstress_files/workload4.bin
+b4dbb9959355e635d3947d76890b121024a0ddff  .//ipcstress_files/workload5.bin
+cd9e0e77bee0f23c8d697ce318ff266acd713d02  .//ipcstress_files/workload6.bin
+20bfaa10a156c6b665dcb8ac8029a173aa607c39  .//ipcstress_files/workload7.bin
+6ec6b21fa7191b14570346e00151c55c4f9743b6  .//ipcstress_files/workload8.bin
+dec42e3732a8de91cd18b59dbe649885bcdc9bf8  .//ipcstress_files/workload9.bin

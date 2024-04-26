@@ -1,0 +1,10 @@
+/ipcstress/workload0.bin .//ipcstress_files/workload0.bin
+/ipcstress/workload1.bin .//ipcstress_files/workload1.bin
+/ipcstress/workload2.bin .//ipcstress_files/workload2.bin
+/ipcstress/workload3.bin .//ipcstress_files/workload3.bin
+/ipcstress/workload4.bin .//ipcstress_files/workload4.bin
+/ipcstress/workload5.bin .//ipcstress_files/workload5.bin
+/ipcstress/workload6.bin .//ipcstress_files/workload6.bin
+/ipcstress/workload7.bin .//ipcstress_files/workload7.bin
+/ipcstress/workload8.bin .//ipcstress_files/workload8.bin
+/ipcstress/workload9.bin .//ipcstress_files/workload9.bin

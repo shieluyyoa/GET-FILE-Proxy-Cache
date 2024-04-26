@@ -1,0 +1,5 @@
+#Elapsed Time (secs),Bytes Received,Requests Serviced, Requests Failed, Comment
+   0.00886,          0,          0,          1, /courses/ud923/filecorpus/1kb-sample-file-4.png
+   0.00902,          0,          0,          2, /courses/ud923/filecorpus/1kb-sample-file-3.jpg
+   0.00912,          0,          0,          3, /courses/ud923/filecorpus/1kb-sample-file-2.png
+   0.01026,          0,          0,          4, /courses/ud923/filecorpus/1kb-sample-file-1.html
